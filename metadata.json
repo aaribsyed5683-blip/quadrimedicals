@@ -1,0 +1,7 @@
+{
+  "name": "Quadri Medical & General Store",
+  "description": "30 Years of Trusted Service — Your Health, Our Commitment. Trusted medical and general healthcare store in Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

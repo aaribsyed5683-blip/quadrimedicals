@@ -1,0 +1,249 @@
+{
+  "admin": {
+    "username": "admin",
+    "passwordHash": "b9111639c3dd53946ede0eca4bf85f1fcb2a8574e0d18fce1fd049d52e5572d6a36ae483315b4751fc0ebe135c649f1efa6fbccd7a57c7506c405426ca235f98"
+  },
+  "settings": {
+    "businessName": "Quadri Medical & General Store",
+    "tagline": "30 Years of Trusted Service — Your Health, Our Commitment.",
+    "shortDescription": "Dedicated to community well-being with genuine quality medicines, healthcare essentials, and compassionate personal service for over three decades in Hyderabad.",
+    "phone1": "9885588593",
+    "phone2": "8074992911",
+    "whatsappNumber": "9885588593",
+    "address": "20-4-367, Himmatpura Road, Hyderabad, T.G",
+    "googleMapsUrl": "https://maps.google.com/maps?q=17.3550829%2C78.4689213&z=17&hl=en",
+    "googleMapsEmbedUrl": "https://maps.google.com/maps?q=17.3550829,78.4689213&hl=en&z=16&output=embed",
+    "workingHours": "Monday – Sunday: 9:00 AM – 11:30 PM",
+    "footerText": "30 Years of Trusted Service — Your Health, Our Commitment. Serving generations in Hyderabad with genuine medicines and dependable healthcare products.",
+    "showBannerNotice": true,
+    "bannerNotice": "Prescription orders and home delivery inquiries are welcome via WhatsApp or Call!"
+  },
+  "home": {
+    "heroHeading": "Quadri Medical & General Store",
+    "heroHighlight": "30 Years of Trusted Service",
+    "heroSubtitle": "Your Health, Our Commitment.",
+    "heroDescription": "Providing Himmatpura and Greater Hyderabad with authentic prescription medicines, wellness essentials, baby care, and everyday healthcare products with trusted pharmacist guidance.",
+    "callButtonText": "Call Now",
+    "whatsappButtonText": "WhatsApp",
+    "directionsButtonText": "Get Directions",
+    "heroImageUrl": "/src/assets/images/hero_pharmacy_interior_1791180363962.jpg",
+    "trustBadgeText": "Since 1994 · Over 30 Years in Himmatpura, Hyderabad",
+    "highlightsTitle": "Trusted Healthcare Standards",
+    "highlightsSubtitle": "What sets Quadri Medical apart for our community over three decades",
+    "highlights": [
+      {
+        "id": "h-1",
+        "title": "30 Years of Trusted Service",
+        "description": "Serving generations of families with dependable healthcare, integrity, and personal attention since 1994.",
+        "iconName": "Award",
+        "badge": "30+ Years"
+      },
+      {
+        "id": "h-2",
+        "title": "100% Quality Medicines",
+        "description": "Direct procurement from certified pharmaceutical companies and licensed distributors ensures absolute authenticity.",
+        "iconName": "ShieldCheck",
+        "badge": "Genuine"
+      },
+      {
+        "id": "h-3",
+        "title": "General Healthcare Products",
+        "description": "From baby care and mother care to daily nutrition, skin wellness, and first aid supplies for your entire family.",
+        "iconName": "HeartPulse",
+        "badge": "Complete Care"
+      },
+      {
+        "id": "h-4",
+        "title": "Customer-Focused Service",
+        "description": "Courteous staff, dosage explanations, instant phone support, and friendly neighborhood pharmacy assistance.",
+        "iconName": "Users",
+        "badge": "Dedicated"
+      }
+    ],
+    "whyChooseUsTitle": "Why Our Community Trusts Us",
+    "whyChooseUsSubtitle": "Your reliable neighborhood medical store committed to your health and peace of mind.",
+    "whyChooseUs": [
+      {
+        "id": "w-1",
+        "title": "Certified & Authentic Medications",
+        "description": "Every prescription medication is securely stored and sourced only from authorized, licensed pharmaceutical channels.",
+        "iconName": "CheckCircle2"
+      },
+      {
+        "id": "w-2",
+        "title": "Open 7 Days with Extended Hours",
+        "description": "We are open from 9:00 AM to 11:30 PM every single day of the week, so you never have to worry during health emergencies.",
+        "iconName": "Clock"
+      },
+      {
+        "id": "w-3",
+        "title": "Quick WhatsApp Prescription Orders",
+        "description": "Simply snap a photo of your doctor prescription and send it to us on WhatsApp for fast checking and packing.",
+        "iconName": "MessageSquare"
+      },
+      {
+        "id": "w-4",
+        "title": "Affordable & Fair Pricing",
+        "description": "Honest pricing on branded and generic pharmaceuticals, surgical products, and everyday health supplies.",
+        "iconName": "DollarSign"
+      }
+    ],
+    "galleryTitle": "Store Gallery & Dispensary",
+    "gallerySubtitle": "Take a look inside our clean, well-stocked medical dispensary and healthcare retail aisles."
+  },
+  "about": {
+    "title": "About Quadri Medical & General Store",
+    "subtitle": "A landmark of trust, care, and quality healthcare in Himmatpura, Hyderabad for 30 years.",
+    "storyHeading": "Three Decades of Serving Our Community",
+    "storyParagraph1": "Established with a foundational mission to make authentic medications and dependable healthcare products readily accessible, Quadri Medical & General Store has been a cornerstone of Himmatpura, Hyderabad for over 30 years.",
+    "storyParagraph2": "Over the past three decades, medical science and retail have evolved, but our core pledge has remained constant: prioritizing patient health above all else. Every tablet, syrup, and healthcare product on our shelves is procured exclusively from verified distributors to guarantee genuine efficacy.",
+    "storyParagraph3": "We believe a medical store is not merely a retail outlet, but an essential community resource. Our experienced staff takes time to understand your needs, explain dosage instructions carefully, and ensure you receive the right care for your loved ones.",
+    "bannerImageUrl": "/src/assets/images/hero_pharmacy_interior_1791180363962.jpg",
+    "missionHeading": "Our Mission & Ethical Commitment",
+    "missionText": "To safeguard our community’s well-being by providing 100% authentic medicines, accessible prices, transparent advice, and respectful, personalized service to every customer who walks through our doors.",
+    "pharmacistMessage": "“Your health and trust are our most valuable assets. Whether you need an urgent prescription or everyday health essentials, our doors and phone lines are always open to assist you.”",
+    "stats": [
+      {
+        "label": "Years of Service",
+        "value": "30+"
+      },
+      {
+        "label": "Families Served",
+        "value": "50,000+"
+      },
+      {
+        "label": "Genuine Products",
+        "value": "100%"
+      },
+      {
+        "label": "Days Open",
+        "value": "365 Days/Yr"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "s-1",
+      "title": "Prescription Medicines",
+      "shortDescription": "Allopathic branded and generic prescription medications dispensed with precision by experienced professionals.",
+      "fullDescription": "We stock a comprehensive inventory of doctor-prescribed medications across cardiology, diabetology, neurology, pediatrics, dermatology, and general medicine. All medicines are stored under strict temperature-controlled standards.",
+      "category": "Medicines",
+      "iconName": "Pill",
+      "imageUrl": "/src/assets/images/hero_pharmacy_interior_1791180363962.jpg",
+      "isPopular": true,
+      "order": 1
+    },
+    {
+      "id": "s-2",
+      "title": "Over-the-Counter (OTC) Medicines",
+      "shortDescription": "Safe, verified remedies for cold, fever, cough, acidity, headache, allergies, and minor pain relief.",
+      "fullDescription": "Quick access to reliable OTC remedies for routine ailments. Our staff is ready to help explain appropriate dosages, indications, and precautions for safe home recovery.",
+      "category": "Medicines",
+      "iconName": "ShieldPlus",
+      "isPopular": true,
+      "order": 2
+    },
+    {
+      "id": "s-3",
+      "title": "General Healthcare Products",
+      "shortDescription": "Vitamins, minerals, nutritional supplements, immunity boosters, and diabetic-friendly nutritional essentials.",
+      "fullDescription": "Support your daily energy and vitality with certified multivitamins, calcium supplements, protein powders, herbal wellness items, and specialized dietary products for all age groups.",
+      "category": "Healthcare",
+      "iconName": "HeartHandshake",
+      "imageUrl": "/src/assets/images/store_wellness_aisle_1791180376531.jpg",
+      "isPopular": true,
+      "order": 3
+    },
+    {
+      "id": "s-4",
+      "title": "Personal Care & Hygiene",
+      "shortDescription": "Dermatological skin care, antiseptic soaps, oral hygiene, shampoos, and daily personal grooming products.",
+      "fullDescription": "Comprehensive selection of personal hygiene and skincare brands, medicated cleansers, moisturizers, dental care, hand sanitizers, and daily grooming supplies.",
+      "category": "Personal Care",
+      "iconName": "Sparkles",
+      "order": 4
+    },
+    {
+      "id": "s-5",
+      "title": "Baby Care & Mother Care",
+      "shortDescription": "Baby formulas, diapers, gentle wipes, feeding bottles, baby skincare, and postpartum maternal wellness.",
+      "fullDescription": "Trusted pediatrician-recommended baby care essentials, baby nutrition, feeding accessories, gentle lotions, diaper rash creams, and maternal health aids.",
+      "category": "Baby Care",
+      "iconName": "Baby",
+      "imageUrl": "/src/assets/images/store_wellness_aisle_1791180376531.jpg",
+      "isPopular": true,
+      "order": 5
+    },
+    {
+      "id": "s-6",
+      "title": "First Aid & Surgical Supplies",
+      "shortDescription": "Antiseptic liquids, sterile bandages, gauze, surgical tapes, cotton, crepe bandages, and burn dressings.",
+      "fullDescription": "Equip your home, office, or vehicle with essential first-aid necessities. We carry medical-grade dressing materials, antiseptic solutions (Dettol, Betadine), and emergency wound care products.",
+      "category": "First Aid",
+      "iconName": "Cross",
+      "order": 6
+    },
+    {
+      "id": "s-7",
+      "title": "Health Monitoring Devices",
+      "shortDescription": "Digital BP monitors, pulse oximeters, blood glucose meters, test strips, and digital thermometers.",
+      "fullDescription": "Accurate, simple-to-use at-home diagnostic equipment. We help you choose the right monitoring device and supply replacement strips, lancets, and batteries.",
+      "category": "Devices",
+      "iconName": "Activity",
+      "order": 7
+    },
+    {
+      "id": "s-8",
+      "title": "Daily General Store Essentials",
+      "shortDescription": "Oral rehydration salts, energy drinks, sanitizers, household wellness items, and daily lifestyle sundries.",
+      "fullDescription": "Convenient general-store essentials so you can pick up daily items together with your medical prescriptions in one convenient neighborhood stop.",
+      "category": "General Store",
+      "iconName": "ShoppingBag",
+      "order": 8
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g-1",
+      "title": "Main Pharmacy & Medicine Dispensary",
+      "url": "/src/assets/images/hero_pharmacy_interior_1791180363962.jpg",
+      "section": "gallery",
+      "order": 1,
+      "uploadedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "g-2",
+      "title": "Healthcare & Wellness Aisles",
+      "url": "/src/assets/images/store_wellness_aisle_1791180376531.jpg",
+      "section": "gallery",
+      "order": 2,
+      "uploadedAt": "2026-10-05T00:00:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1791180713737-763s",
+      "name": "Ayesha Begum",
+      "phone": "9885511223",
+      "message": "Do you have pediatric fever syrups and thermometers in stock?",
+      "createdAt": "2026-10-05T06:11:53.737Z",
+      "read": false
+    },
+    {
+      "id": "msg-seed-1",
+      "name": "Mohammed Farhan",
+      "phone": "9849012345",
+      "message": "Hello, do you have continuous glucose monitoring sensors and diabetic test strips in stock? Can I pick them up this evening?",
+      "createdAt": "2026-10-04T18:30:00.000Z",
+      "read": false
+    },
+    {
+      "id": "msg-seed-2",
+      "name": "Dr. K. Srinivas",
+      "phone": "9988776655",
+      "message": "Inquiring about home delivery of monthly blood pressure medications for elderly parents residing near Himmatpura.",
+      "createdAt": "2026-10-03T11:15:00.000Z",
+      "read": true
+    }
+  ]
+}
